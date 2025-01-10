@@ -1,10 +1,16 @@
 {
-  "name": "is-even",
+  "name": "is-even-yogesh-roy",
   "description": "Return true if the given number is even.",
   "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/is-even",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "repository": "jonschlinkert/is-even",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-even.git"
+  },
+  "publishConfig": {
+  "@shubham-kshetre:registry": "https://npm.pkg.github.com"
+  },
   "bugs": {
     "url": "https://github.com/jonschlinkert/is-even/issues"
   },
