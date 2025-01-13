@@ -1,4 +1,4 @@
-# is-even [![NPM version](https://img.shields.io/npm/v/is-even.svg?style=flat)](https://www.npmjs.com/package/is-even) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-even.svg?style=flat)](https://npmjs.org/package/is-even) [![NPM total downloads](https://img.shields.io/npm/dt/is-even.svg?style=flat)](https://npmjs.org/package/is-even) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/is-even.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/is-even)
+## is-even [![NPM version](https://img.shields.io/npm/v/is-even.svg?style=flat)](https://www.npmjs.com/package/is-even) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-even.svg?style=flat)](https://npmjs.org/package/is-even) [![NPM total downloads](https://img.shields.io/npm/dt/is-even.svg?style=flat)](https://npmjs.org/package/is-even) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/is-even.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/is-even)
 
 > Return true if the given number is even.
 
