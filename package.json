@@ -1,18 +1,18 @@
 {
-  "name": "is-even-yogesh-roy",
+  "name": "@shubham-kshetre/is-even-yogesh-roy",
   "description": "Return true if the given number is even.",
   "version": "1.0.0",
-  "homepage": "https://github.com/jonschlinkert/is-even",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "homepage": "https://github.com/shubham-kshetre/is-even-yogesh-roy",
+  "author": "Shubham Kshetre (https://github.com/shubham-kshetre)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonschlinkert/is-even.git"
+    "url": "git+https://github.com/shubham-kshetre/is-even-yogesh-roy.git"
   },
   "publishConfig": {
-  "@shubham-kshetre:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
-    "url": "https://github.com/jonschlinkert/is-even/issues"
+    "url": "https://github.com/shubham-kshetre/is-even-yogesh-roy/issues"
   },
   "license": "MIT",
   "files": [
@@ -26,6 +26,7 @@
     "test": "mocha"
   },
   "dependencies": {
+    "is-even-yogesh-roy": "github:shubham-kshetre/is-even-yogesh-roy",
     "is-odd": "^0.1.2"
   },
   "devDependencies": {
